@@ -1,0 +1,19 @@
+img {
+	width: 50%;
+}
+
+p {
+	margin-bottom: 10px;
+}
+
+.name {
+	font-size: 3em;
+}
+
+.character-details {
+	font-size: 2em;
+}
+
+.ilvl {
+	font-size: 1.5em;
+}
